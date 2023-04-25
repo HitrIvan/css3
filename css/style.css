@@ -1,0 +1,13 @@
+.example-block{
+   width: 500px;
+   margin: 10px;
+   padding: 10px;
+   border: 1px solid black;
+}
+.example-string{
+   padding: 20px;
+}
+
+.examole-image{
+   width: 500px;
+}
